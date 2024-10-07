@@ -4,7 +4,7 @@
   }
   
 body {
-    background-color: darksalmon;
+    background-color: gray;
   }
   
 .c {
@@ -50,7 +50,7 @@ body {
     margin-top: 100px;
     width: 450px;
     height: 350px;
-    background-color: aqua;
+    background-color: greenyellow;
 
   }
 
@@ -62,4 +62,12 @@ body {
 img {
     width: 75px;
     height: 75px;
+}
+
+.hiasan {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 8vh;
 }
